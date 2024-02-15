@@ -1,0 +1,1000 @@
+tench, Tinca tinca	None
+goldfish, Carassius auratus	None
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias	None
+tiger shark, Galeocerdo cuvieri	None
+hammerhead, hammerhead shark	None
+electric ray, crampfish, numbfish, torpedo	None
+stingray	None
+cock	None
+hen	bird
+ostrich, Struthio camelus	bird
+brambling, Fringilla montifringilla	bird
+goldfinch, Carduelis carduelis	bird
+house finch, linnet, Carpodacus mexicanus	bird
+junco, snowbird	bird
+indigo bunting, indigo finch, indigo bird, Passerina cyanea	bird
+robin, American robin, Turdus migratorius	bird
+bulbul	bird
+jay	person
+magpie	bird
+chickadee	bird
+water ouzel, dipper	bird
+kite	kite
+bald eagle, American eagle, Haliaeetus leucocephalus	bird
+vulture	bird
+great grey owl, great gray owl, Strix nebulosa	bird
+European fire salamander, Salamandra salamandra	None
+common newt, Triturus vulgaris	None
+eft	None
+spotted salamander, Ambystoma maculatum	None
+axolotl, mud puppy, Ambystoma mexicanum	None
+bullfrog, Rana catesbeiana	None
+tree frog, tree-frog	None
+tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui	None
+loggerhead, loggerhead turtle, Caretta caretta	None
+leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea	None
+mud turtle	None
+terrapin	None
+box turtle, box tortoise	None
+banded gecko	None
+common iguana, iguana, Iguana iguana	None
+American chameleon, anole, Anolis carolinensis	None
+whiptail, whiptail lizard	None
+agama	None
+frilled lizard, Chlamydosaurus kingi	None
+alligator lizard	None
+Gila monster, Heloderma suspectum	None
+green lizard, Lacerta viridis	None
+African chameleon, Chamaeleo chamaeleon	None
+Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis	None
+African crocodile, Nile crocodile, Crocodylus niloticus	None
+American alligator, Alligator mississipiensis	None
+triceratops	None
+thunder snake, worm snake, Carphophis amoenus	None
+ringneck snake, ring-necked snake, ring snake	None
+hognose snake, puff adder, sand viper	None
+green snake, grass snake	None
+king snake, kingsnake	None
+garter snake, grass snake	None
+water snake	None
+vine snake	None
+night snake, Hypsiglena torquata	None
+boa constrictor, Constrictor constrictor	None
+rock python, rock snake, Python sebae	None
+Indian cobra, Naja naja	None
+green mamba	None
+sea snake	None
+horned viper, cerastes, sand viper, horned asp, Cerastes cornutus	None
+diamondback, diamondback rattlesnake, Crotalus adamanteus	None
+sidewinder, horned rattlesnake, Crotalus cerastes	None
+trilobite	None
+harvestman, daddy longlegs, Phalangium opilio	None
+scorpion	person
+black and gold garden spider, Argiope aurantia	None
+barn spider, Araneus cavaticus	None
+garden spider, Aranea diademata	None
+black widow, Latrodectus mactans	None
+tarantula	None
+wolf spider, hunting spider	None
+tick	None
+centipede	None
+black grouse	bird
+ptarmigan	bird
+ruffed grouse, partridge, Bonasa umbellus	bird
+prairie chicken, prairie grouse, prairie fowl	bird
+peacock	None
+quail	bird
+partridge	bird
+African grey, African gray, Psittacus erithacus	bird
+macaw	bird
+sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita	bird
+lorikeet	bird
+coucal	bird
+bee eater	bird
+hornbill	bird
+hummingbird	bird
+jacamar	bird
+toucan	bird
+drake	person
+red-breasted merganser, Mergus serrator	bird
+goose	bird
+black swan, Cygnus atratus	bird
+tusker	None
+echidna, spiny anteater, anteater	None
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus	None
+wallaby, brush kangaroo	None
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus	None
+wombat	None
+jellyfish	None
+sea anemone, anemone	None
+brain coral	None
+flatworm, platyhelminth	None
+nematode, nematode worm, roundworm	None
+conch	None
+snail	None
+slug	None
+sea slug, nudibranch	None
+chiton, coat-of-mail shell, sea cradle, polyplacophore	None
+chambered nautilus, pearly nautilus, nautilus	None
+Dungeness crab, Cancer magister	None
+rock crab, Cancer irroratus	None
+fiddler crab	None
+king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica	None
+American lobster, Northern lobster, Maine lobster, Homarus americanus	None
+spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish	None
+crayfish, crawfish, crawdad, crawdaddy	None
+hermit crab	None
+isopod	None
+white stork, Ciconia ciconia	bird
+black stork, Ciconia nigra	bird
+spoonbill	bird
+flamingo	bird
+little blue heron, Egretta caerulea	bird
+American egret, great white heron, Egretta albus	bird
+bittern	bird
+crane	person
+limpkin, Aramus pictus	bird
+European gallinule, Porphyrio porphyrio	bird
+American coot, marsh hen, mud hen, water hen, Fulica americana	bird
+bustard	bird
+ruddy turnstone, Arenaria interpres	bird
+red-backed sandpiper, dunlin, Erolia alpina	bird
+redshank, Tringa totanus	bird
+dowitcher	bird
+oystercatcher, oyster catcher	bird
+pelican	bird
+king penguin, Aptenodytes patagonica	bird
+albatross, mollymawk	bird
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus	None
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca	None
+dugong, Dugong dugon	None
+sea lion	None
+Chihuahua	None
+Japanese spaniel	dog
+Maltese dog, Maltese terrier, Maltese	dog
+Pekinese, Pekingese, Peke	dog
+Shih-Tzu	dog
+Blenheim spaniel	dog
+papillon	dog
+toy terrier	dog
+Rhodesian ridgeback	dog
+Afghan hound, Afghan	dog
+basset, basset hound	dog
+beagle	dog
+bloodhound, sleuthhound	dog
+bluetick	dog
+black-and-tan coonhound	dog
+Walker hound, Walker foxhound	dog
+English foxhound	dog
+redbone	dog
+borzoi, Russian wolfhound	dog
+Irish wolfhound	dog
+Italian greyhound	dog
+whippet	dog
+Ibizan hound, Ibizan Podenco	dog
+Norwegian elkhound, elkhound	dog
+otterhound, otter hound	dog
+Saluki, gazelle hound	dog
+Scottish deerhound, deerhound	dog
+Weimaraner	dog
+Staffordshire bullterrier, Staffordshire bull terrier	dog
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier	dog
+Bedlington terrier	dog
+Border terrier	dog
+Kerry blue terrier	dog
+Irish terrier	dog
+Norfolk terrier	dog
+Norwich terrier	dog
+Yorkshire terrier	dog
+wire-haired fox terrier	dog
+Lakeland terrier	dog
+Sealyham terrier, Sealyham	dog
+Airedale, Airedale terrier	dog
+cairn, cairn terrier	dog
+Australian terrier	dog
+Dandie Dinmont, Dandie Dinmont terrier	dog
+Boston bull, Boston terrier	dog
+miniature schnauzer	dog
+giant schnauzer	dog
+standard schnauzer	dog
+Scotch terrier, Scottish terrier, Scottie	dog
+Tibetan terrier, chrysanthemum dog	dog
+silky terrier, Sydney silky	dog
+soft-coated wheaten terrier	dog
+West Highland white terrier	dog
+Lhasa, Lhasa apso	dog
+flat-coated retriever	dog
+curly-coated retriever	dog
+golden retriever	dog
+Labrador retriever	dog
+Chesapeake Bay retriever	dog
+German short-haired pointer	dog
+vizsla, Hungarian pointer	dog
+English setter	dog
+Irish setter, red setter	dog
+Gordon setter	dog
+Brittany spaniel	dog
+clumber, clumber spaniel	dog
+English springer, English springer spaniel	dog
+Welsh springer spaniel	dog
+cocker spaniel, English cocker spaniel, cocker	dog
+Sussex spaniel	dog
+Irish water spaniel	dog
+kuvasz	dog
+schipperke	dog
+groenendael	dog
+malinois	dog
+briard	dog
+kelpie	None
+komondor	dog
+Old English sheepdog, bobtail	dog
+Shetland sheepdog, Shetland sheep dog, Shetland	dog
+collie	dog
+Border collie	dog
+Bouvier des Flandres, Bouviers des Flandres	dog
+Rottweiler	dog
+German shepherd, German shepherd dog, German police dog, alsatian	dog
+Doberman, Doberman pinscher	dog
+miniature pinscher	dog
+Greater Swiss Mountain dog	dog
+Bernese mountain dog	dog
+Appenzeller	dog
+EntleBucher	dog
+boxer	person
+bull mastiff	dog
+Tibetan mastiff	dog
+French bulldog	dog
+Great Dane	dog
+Saint Bernard, St Bernard	dog
+Eskimo dog, husky	dog
+malamute, malemute, Alaskan malamute	dog
+Siberian husky	dog
+dalmatian, coach dog, carriage dog	dog
+affenpinscher, monkey pinscher, monkey dog	dog
+basenji	dog
+pug, pug-dog	dog
+Leonberg	dog
+Newfoundland, Newfoundland dog	dog
+Great Pyrenees	dog
+Samoyed, Samoyede	dog
+Pomeranian	dog
+chow, chow chow	dog
+keeshond	dog
+Brabancon griffon	dog
+Pembroke, Pembroke Welsh corgi	dog
+Cardigan, Cardigan Welsh corgi	dog
+toy poodle	dog
+miniature poodle	dog
+standard poodle	dog
+Mexican hairless	dog
+timber wolf, grey wolf, gray wolf, Canis lupus	None
+white wolf, Arctic wolf, Canis lupus tundrarum	None
+red wolf, maned wolf, Canis rufus, Canis niger	None
+coyote, prairie wolf, brush wolf, Canis latrans	None
+dingo, warrigal, warragal, Canis dingo	None
+dhole, Cuon alpinus	None
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus	None
+hyena, hyaena	None
+red fox, Vulpes vulpes	None
+kit fox, Vulpes macrotis	None
+Arctic fox, white fox, Alopex lagopus	None
+grey fox, gray fox, Urocyon cinereoargenteus	None
+tabby, tabby cat	cat
+tiger cat	cat
+Persian cat	cat
+Siamese cat, Siamese	cat
+Egyptian cat	cat
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor	cat
+lynx, catamount	cat
+leopard, Panthera pardus	None
+snow leopard, ounce, Panthera uncia	None
+jaguar, panther, Panthera onca, Felis onca	None
+lion, king of beasts, Panthera leo	None
+tiger, Panthera tigris	None
+cheetah, chetah, Acinonyx jubatus	None
+brown bear, bruin, Ursus arctos	bear
+American black bear, black bear, Ursus americanus, Euarctos americanus	bear
+ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus	bear
+sloth bear, Melursus ursinus, Ursus ursinus	bear
+mongoose	None
+meerkat, mierkat	None
+tiger beetle	None
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle	None
+ground beetle, carabid beetle	None
+long-horned beetle, longicorn, longicorn beetle	None
+leaf beetle, chrysomelid	None
+dung beetle	None
+rhinoceros beetle	None
+weevil	None
+fly	None
+bee	None
+ant, emmet, pismire	None
+grasshopper, hopper	None
+cricket	None
+walking stick, walkingstick, stick insect	None
+cockroach, roach	None
+mantis, mantid	None
+cicada, cicala	None
+leafhopper	None
+lacewing, lacewing fly	None
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk	None
+damselfly	None
+admiral	person
+ringlet, ringlet butterfly	None
+monarch, monarch butterfly, milkweed butterfly, Danaus plexippus	None
+cabbage butterfly	None
+sulphur butterfly, sulfur butterfly	None
+lycaenid, lycaenid butterfly	None
+starfish, sea star	None
+sea urchin	None
+sea cucumber, holothurian	None
+wood rabbit, cottontail, cottontail rabbit	None
+hare	None
+Angora, Angora rabbit	None
+hamster	None
+porcupine, hedgehog	None
+fox squirrel, eastern fox squirrel, Sciurus niger	None
+marmot	None
+beaver	None
+guinea pig, Cavia cobaya	None
+sorrel	None
+zebra	zebra
+hog, pig, grunter, squealer, Sus scrofa	None
+wild boar, boar, Sus scrofa	None
+warthog	None
+hippopotamus, hippo, river horse, Hippopotamus amphibius	None
+ox	None
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis	None
+bison	None
+ram, tup	sheep
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis	None
+ibex, Capra ibex	None
+hartebeest	None
+impala, Aepyceros melampus	None
+gazelle	None
+Arabian camel, dromedary, Camelus dromedarius	None
+llama	None
+weasel	person
+mink	None
+polecat, fitch, foulmart, foumart, Mustela putorius	None
+black-footed ferret, ferret, Mustela nigripes	None
+otter	None
+skunk, polecat, wood pussy	None
+badger	person
+armadillo	None
+three-toed sloth, ai, Bradypus tridactylus	None
+orangutan, orang, orangutang, Pongo pygmaeus	None
+gorilla, Gorilla gorilla	None
+chimpanzee, chimp, Pan troglodytes	None
+gibbon, Hylobates lar	None
+siamang, Hylobates syndactylus, Symphalangus syndactylus	None
+guenon, guenon monkey	None
+patas, hussar monkey, Erythrocebus patas	None
+baboon	None
+macaque	None
+langur	None
+colobus, colobus monkey	None
+proboscis monkey, Nasalis larvatus	None
+marmoset	None
+capuchin, ringtail, Cebus capucinus	None
+howler monkey, howler	None
+titi, titi monkey	None
+spider monkey, Ateles geoffroyi	None
+squirrel monkey, Saimiri sciureus	None
+Madagascar cat, ring-tailed lemur, Lemur catta	None
+indri, indris, Indri indri, Indri brevicaudatus	None
+Indian elephant, Elephas maximus	elephant
+African elephant, Loxodonta africana	elephant
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens	None
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca	None
+barracouta, snoek	None
+eel	None
+coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch	None
+rock beauty, Holocanthus tricolor	None
+anemone fish	None
+sturgeon	None
+gar, garfish, garpike, billfish, Lepisosteus osseus	None
+lionfish	None
+puffer, pufferfish, blowfish, globefish	None
+abacus	None
+abaya	None
+academic gown, academic robe, judge's robe	None
+accordion, piano accordion, squeeze box	None
+acoustic guitar	None
+aircraft carrier, carrier, flattop, attack aircraft carrier	None
+airliner	None
+airship, dirigible	None
+altar	None
+ambulance	car
+amphibian, amphibious vehicle	None
+analog clock	clock
+apiary, bee house	None
+apron	None
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin	None
+assault rifle, assault gun	None
+backpack, back pack, knapsack, packsack, rucksack, haversack	backpack
+bakery, bakeshop, bakehouse	None
+balance beam, beam	None
+balloon	None
+ballpoint, ballpoint pen, ballpen, Biro	None
+Band Aid	None
+banjo	None
+bannister, banister, balustrade, balusters, handrail	None
+barbell	None
+barber chair	chair
+barbershop	None
+barn	None
+barometer	None
+barrel, cask	None
+barrow, garden cart, lawn cart, wheelbarrow	None
+baseball	None
+basketball	None
+bassinet	None
+bassoon	None
+bathing cap, swimming cap	None
+bath towel	None
+bathtub, bathing tub, bath, tub	None
+beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	car
+beacon, lighthouse, beacon light, pharos	None
+beaker	None
+bearskin, busby, shako	None
+beer bottle	bottle
+beer glass	None
+bell cote, bell cot	None
+bib	None
+bicycle-built-for-two, tandem bicycle, tandem	bicycle
+bikini, two-piece	None
+binder, ring-binder	None
+binoculars, field glasses, opera glasses	None
+birdhouse	None
+boathouse	None
+bobsled, bobsleigh, bob	None
+bolo tie, bolo, bola tie, bola	None
+bonnet, poke bonnet	None
+bookcase	None
+bookshop, bookstore, bookstall	None
+bottlecap	None
+bow	None
+bow tie, bow-tie, bowtie	None
+brass, memorial tablet, plaque	None
+brassiere, bra, bandeau	None
+breakwater, groin, groyne, mole, bulwark, seawall, jetty	None
+breastplate, aegis, egis	None
+broom	None
+bucket, pail	None
+buckle	None
+bulletproof vest	None
+bullet train, bullet	train
+butcher shop, meat market	None
+cab, hack, taxi, taxicab	car
+caldron, cauldron	None
+candle, taper, wax light	None
+cannon	None
+canoe	boat
+can opener, tin opener	None
+cardigan	None
+car mirror	None
+carousel, carrousel, merry-go-round, roundabout, whirligig	None
+carpenter's kit, tool kit	None
+carton	None
+car wheel	None
+cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM	None
+cassette	None
+cassette player	None
+castle	None
+catamaran	None
+CD player	None
+cello, violoncello	None
+cellular telephone, cellular phone, cellphone, cell, mobile phone	None
+chain	None
+chainlink fence	None
+chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour	None
+chain saw, chainsaw	None
+chest	None
+chiffonier, commode	None
+chime, bell, gong	None
+china cabinet, china closet	None
+Christmas stocking	None
+church, church building	None
+cinema, movie theater, movie theatre, movie house, picture palace	None
+cleaver, meat cleaver, chopper	knife
+cliff dwelling	None
+cloak	None
+clog, geta, patten, sabot	None
+cocktail shaker	None
+coffee mug	None
+coffeepot	None
+coil, spiral, volute, whorl, helix	None
+combination lock	None
+computer keyboard, keypad	keyboard
+confectionery, confectionary, candy store	None
+container ship, containership, container vessel	None
+convertible	car
+corkscrew, bottle screw	None
+cornet, horn, trumpet, trump	None
+cowboy boot	None
+cowboy hat, ten-gallon hat	None
+cradle	None
+crane	person
+crash helmet	None
+crate	None
+crib, cot	None
+Crock Pot	None
+croquet ball	None
+crutch	None
+cuirass	None
+dam, dike, dyke	None
+desk	None
+desktop computer	None
+dial telephone, dial phone	None
+diaper, nappy, napkin	None
+digital clock	clock
+digital watch	None
+dining table, board	None
+dishrag, dishcloth	None
+dishwasher, dish washer, dishwashing machine	None
+disk brake, disc brake	None
+dock, dockage, docking facility	None
+dogsled, dog sled, dog sleigh	None
+dome	None
+doormat, welcome mat	None
+drilling platform, offshore rig	None
+drum, membranophone, tympan	None
+drumstick	None
+dumbbell	None
+Dutch oven	oven
+electric fan, blower	None
+electric guitar	None
+electric locomotive	None
+entertainment center	None
+envelope	None
+espresso maker	None
+face powder	None
+feather boa, boa	None
+file, file cabinet, filing cabinet	None
+fireboat	boat
+fire engine, fire truck	truck
+fire screen, fireguard	None
+flagpole, flagstaff	None
+flute, transverse flute	None
+folding chair	chair
+football helmet	None
+forklift	None
+fountain	None
+fountain pen	None
+four-poster	bed
+freight car	car
+French horn, horn	None
+frying pan, frypan, skillet	None
+fur coat	None
+garbage truck, dustcart	truck
+gasmask, respirator, gas helmet	None
+gas pump, gasoline pump, petrol pump, island dispenser	None
+goblet	None
+go-kart	None
+golf ball	None
+golfcart, golf cart	None
+gondola	car
+gong, tam-tam	None
+gown	None
+grand piano, grand	None
+greenhouse, nursery, glasshouse	None
+grille, radiator grille	None
+grocery store, grocery, food market, market	None
+guillotine	None
+hair slide	None
+hair spray	None
+half track	None
+hammer	None
+hamper	None
+hand blower, blow dryer, blow drier, hair dryer, hair drier	None
+hand-held computer, hand-held microcomputer	None
+handkerchief, hankie, hanky, hankey	None
+hard disc, hard disk, fixed disk	None
+harmonica, mouth organ, harp, mouth harp	None
+harp	None
+harvester, reaper	person
+hatchet	None
+holster	None
+home theater, home theatre	None
+honeycomb	None
+hook, claw	None
+hoopskirt, crinoline	None
+horizontal bar, high bar	None
+horse cart, horse-cart	None
+hourglass	None
+iPod	None
+iron, smoothing iron	None
+jack-o'-lantern	None
+jean, blue jean, denim	None
+jeep, landrover	car
+jersey, T-shirt, tee shirt	None
+jigsaw puzzle	None
+jinrikisha, ricksha, rickshaw	None
+joystick	None
+kimono	None
+knee pad	None
+knot	None
+lab coat, laboratory coat	None
+ladle	None
+lampshade, lamp shade	None
+laptop, laptop computer	laptop
+lawn mower, mower	None
+lens cap, lens cover	None
+letter opener, paper knife, paperknife	knife
+library	None
+lifeboat	boat
+lighter, light, igniter, ignitor	None
+limousine, limo	car
+liner, ocean liner	None
+lipstick, lip rouge	None
+Loafer	person
+lotion	None
+loudspeaker, speaker, speaker unit, loudspeaker system, speaker system	None
+loupe, jeweler's loupe	None
+lumbermill, sawmill	None
+magnetic compass	None
+mailbag, postbag	None
+mailbox, letter box	None
+maillot	None
+maillot, tank suit	None
+manhole cover	None
+maraca	None
+marimba, xylophone	None
+mask	None
+matchstick	None
+maypole	None
+maze, labyrinth	None
+measuring cup	None
+medicine chest, medicine cabinet	None
+megalith, megalithic structure	None
+microphone, mike	None
+microwave, microwave oven	microwave
+military uniform	None
+milk can	None
+minibus	bus
+miniskirt, mini	None
+minivan	truck
+missile	None
+mitten	None
+mixing bowl	bowl
+mobile home, manufactured home	None
+Model T	car
+modem	None
+monastery	None
+monitor	person
+moped	None
+mortar	None
+mortarboard	None
+mosque	None
+mosquito net	None
+motor scooter, scooter	None
+mountain bike, all-terrain bike, off-roader	bicycle
+mountain tent	None
+mouse, computer mouse	mouse
+mousetrap	None
+moving van	truck
+muzzle	None
+nail	None
+neck brace	None
+necklace	None
+nipple	None
+notebook, notebook computer	None
+obelisk	None
+oboe, hautboy, hautbois	None
+ocarina, sweet potato	None
+odometer, hodometer, mileometer, milometer	None
+oil filter	None
+organ, pipe organ	None
+oscilloscope, scope, cathode-ray oscilloscope, CRO	None
+overskirt	None
+oxcart	None
+oxygen mask	None
+packet	None
+paddle, boat paddle	None
+paddlewheel, paddle wheel	None
+padlock	None
+paintbrush	None
+pajama, pyjama, pj's, jammies	None
+palace	None
+panpipe, pandean pipe, syrinx	None
+paper towel	None
+parachute, chute	None
+parallel bars, bars	None
+park bench	bench
+parking meter	parking_meter
+passenger car, coach, carriage	car
+patio, terrace	None
+pay-phone, pay-station	None
+pedestal, plinth, footstall	None
+pencil box, pencil case	None
+pencil sharpener	None
+perfume, essence	None
+Petri dish	None
+photocopier	None
+pick, plectrum, plectron	None
+pickelhaube	None
+picket fence, paling	None
+pickup, pickup truck	truck
+pier	None
+piggy bank, penny bank	None
+pill bottle	bottle
+pillow	None
+ping-pong ball	None
+pinwheel	None
+pirate, pirate ship	None
+pitcher, ewer	None
+plane, carpenter's plane, woodworking plane	None
+planetarium	None
+plastic bag	None
+plate rack	None
+plow, plough	None
+plunger, plumber's helper	None
+Polaroid camera, Polaroid Land camera	None
+pole	None
+police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria	truck
+poncho	None
+pool table, billiard table, snooker table	None
+pop bottle, soda bottle	bottle
+pot, flowerpot	None
+potter's wheel	None
+power drill	None
+prayer rug, prayer mat	None
+printer	person
+prison, prison house	None
+projectile, missile	None
+projector	None
+puck, hockey puck	None
+punching bag, punch bag, punching ball, punchball	None
+purse	None
+quill, quill pen	None
+quilt, comforter, comfort, puff	None
+racer, race car, racing car	car
+racket, racquet	None
+radiator	None
+radio, wireless	None
+radio telescope, radio reflector	None
+rain barrel	None
+recreational vehicle, RV, R.V.	None
+reel	None
+reflex camera	None
+refrigerator, icebox	refrigerator
+remote control, remote	None
+restaurant, eating house, eating place, eatery	None
+revolver, six-gun, six-shooter	None
+rifle	None
+rocking chair, rocker	chair
+rotisserie	oven
+rubber eraser, rubber, pencil eraser	None
+rugby ball	None
+rule, ruler	None
+running shoe	None
+safe	None
+safety pin	None
+saltshaker, salt shaker	None
+sandal	None
+sarong	None
+sax, saxophone	None
+scabbard	None
+scale, weighing machine	None
+school bus	bus
+schooner	None
+scoreboard	None
+screen, CRT screen	None
+screw	person
+screwdriver	None
+seat belt, seatbelt	None
+sewing machine	None
+shield, buckler	None
+shoe shop, shoe-shop, shoe store	None
+shoji	None
+shopping basket	None
+shopping cart	None
+shovel	None
+shower cap	None
+shower curtain	None
+ski	None
+ski mask	None
+sleeping bag	None
+slide rule, slipstick	None
+sliding door	None
+slot, one-armed bandit	None
+snorkel	None
+snowmobile	None
+snowplow, snowplough	None
+soap dispenser	None
+soccer ball	None
+sock	None
+solar dish, solar collector, solar furnace	None
+sombrero	None
+soup bowl	bowl
+space bar	None
+space heater	None
+space shuttle	None
+spatula	None
+speedboat	boat
+spider web, spider's web	None
+spindle	None
+sports car, sport car	car
+spotlight, spot	None
+stage	None
+steam locomotive	None
+steel arch bridge	None
+steel drum	None
+stethoscope	None
+stole	None
+stone wall	None
+stopwatch, stop watch	None
+stove	None
+strainer	None
+streetcar, tram, tramcar, trolley, trolley car	None
+stretcher	None
+studio couch, day bed	sofa
+stupa, tope	None
+submarine, pigboat, sub, U-boat	None
+suit, suit of clothes	None
+sundial	None
+sunglass	None
+sunglasses, dark glasses, shades	None
+sunscreen, sunblock, sun blocker	None
+suspension bridge	None
+swab, swob, mop	None
+sweatshirt	None
+swimming trunks, bathing trunks	None
+swing	None
+switch, electric switch, electrical switch	None
+syringe	None
+table lamp	None
+tank, army tank, armored combat vehicle, armoured combat vehicle	None
+tape player	None
+teapot	None
+teddy, teddy bear	None
+television, television system	None
+tennis ball	None
+thatch, thatched roof	None
+theater curtain, theatre curtain	None
+thimble	None
+thresher, thrasher, threshing machine	None
+throne	chair
+tile roof	None
+toaster	toaster
+tobacco shop, tobacconist shop, tobacconist	None
+toilet seat	None
+torch	None
+totem pole	None
+tow truck, tow car, wrecker	truck
+toyshop	None
+tractor	None
+trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi	truck
+tray	None
+trench coat	None
+tricycle, trike, velocipede	None
+trimaran	None
+tripod	None
+triumphal arch	None
+trolleybus, trolley coach, trackless trolley	bus
+trombone	None
+tub, vat	None
+turnstile	None
+typewriter keyboard	keyboard
+umbrella	umbrella
+unicycle, monocycle	None
+upright, upright piano	None
+vacuum, vacuum cleaner	None
+vase	vase
+vault	None
+velvet	None
+vending machine	None
+vestment	None
+viaduct	None
+violin, fiddle	None
+volleyball	None
+waffle iron	None
+wall clock	clock
+wallet, billfold, notecase, pocketbook	None
+wardrobe, closet, press	None
+warplane, military plane	None
+washbasin, handbasin, washbowl, lavabo, wash-hand basin	None
+washer, automatic washer, washing machine	None
+water bottle	bottle
+water jug	bottle
+water tower	None
+whiskey jug	bottle
+whistle	None
+wig	None
+window screen	None
+window shade	None
+Windsor tie	None
+wine bottle	bottle
+wing	None
+wok	None
+wooden spoon	None
+wool, woolen, woollen	None
+worm fence, snake fence, snake-rail fence, Virginia fence	None
+wreck	None
+yawl	boat
+yurt	None
+web site, website, internet site, site	None
+comic book	None
+crossword puzzle, crossword	None
+street sign	None
+traffic light, traffic signal, stoplight	traffic_light
+book jacket, dust cover, dust jacket, dust wrapper	None
+menu	None
+plate	None
+guacamole	None
+consomme	None
+hot pot, hotpot	None
+trifle	None
+ice cream, icecream	None
+ice lolly, lolly, lollipop, popsicle	None
+French loaf	None
+bagel, beigel	None
+pretzel	None
+cheeseburger	sandwich
+hotdog, hot dog, red hot	sandwich
+mashed potato	None
+head cabbage	None
+broccoli	broccoli
+cauliflower	None
+zucchini, courgette	None
+spaghetti squash	None
+acorn squash	None
+butternut squash	None
+cucumber, cuke	None
+artichoke, globe artichoke	None
+bell pepper	None
+cardoon	None
+mushroom	None
+Granny Smith	apple
+strawberry	None
+orange	orange
+lemon	None
+fig	None
+pineapple, ananas	None
+banana	banana
+jackfruit, jak, jack	None
+custard apple	None
+pomegranate	None
+hay	None
+carbonara	None
+chocolate sauce, chocolate syrup	None
+dough	None
+meat loaf, meatloaf	None
+pizza, pizza pie	pizza
+potpie	None
+burrito	None
+red wine	None
+espresso	None
+cup	cup
+eggnog	None
+alp	None
+bubble	None
+cliff, drop, drop-off	None
+coral reef	None
+geyser	None
+lakeside, lakeshore	None
+promontory, headland, head, foreland	None
+sandbar, sand bar	None
+seashore, coast, seacoast, sea-coast	None
+valley, vale	None
+volcano	None
+ballplayer, baseball player	person
+groom, bridegroom	person
+scuba diver	person
+rapeseed	None
+daisy	None
+yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum	None
+corn	None
+acorn	None
+hip, rose hip, rosehip	None
+buckeye, horse chestnut, conker	None
+coral fungus	None
+agaric	None
+gyromitra	None
+stinkhorn, carrion fungus	None
+earthstar	None
+hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa	None
+bolete	None
+ear, spike, capitulum	None
+toilet tissue, toilet paper, bathroom tissue	None

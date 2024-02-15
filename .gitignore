@@ -1,0 +1,10 @@
+models/
+models
+log*/
+figs/
+dist/
+dist
+data/
+key/
+figures/
+**/.DS_Store

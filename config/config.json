@@ -1,0 +1,68 @@
+{
+    "URL": "http://127.0.0.1",
+    "PORT": 13366,
+    "WASM_URL_PREFIX": "https://127.0.0.1:8885",
+    "INCLUDE_QOE": 1,
+    "QoE_webpage": "https://browserbench.org/Speedometer2.0/",
+    "models": {
+        "tfjs": {
+            "wasm": [
+                "imagenet_mobilenet_v2_100_224_classification_5",
+                "resnet_50_classification_1",
+                "ssd_mobilenet_v2_2",
+                "movenet_singlepose_thunder_4",
+                "VGG16", 
+                "ShuffleNetV2",
+                "Xception", 
+                "InceptionV3",
+                "EfficientNetV2"
+            ],
+            "webgl": [
+                "imagenet_mobilenet_v2_100_224_classification_5",
+                "resnet_50_classification_1",
+                "ssd_mobilenet_v2_2",
+                "movenet_singlepose_thunder_4",
+                "movenet_multipose_lightning_1",
+                "edgetpu_nlp_mobilebert-edgetpu_xs_1",
+                "mobilebert_en_uncased_L-24_H-128_B-512_A-4_F-4_OPT_1",
+                "VGG16", 
+                "ShuffleNetV2",
+                "Xception", 
+                "InceptionV3",
+                "yolov5",
+                "EfficientNetV2",
+                "efficientdet_d1_coco17_tpu-32", 
+                "centernet_resnet50_v1_fpn_512x512_coco17_tpu-8",
+                "small_bert_bert_en_uncased_L-2_H-128_A-2_2"
+            ]
+        },
+        "ort": {
+            "wasm": [
+                "imagenet_mobilenet_v2_100_224_classification_5",
+                "resnet_50_classification_1",
+                "ssd_mobilenet_v2_2",
+                "movenet_singlepose_thunder_4",
+                "movenet_multipose_lightning_1",
+                "edgetpu_nlp_mobilebert-edgetpu_xs_1",
+                "mobilebert_en_uncased_L-24_H-128_B-512_A-4_F-4_OPT_1",
+                "VGG16", 
+                "ShuffleNetV2",
+                "Xception", 
+                "InceptionV3",
+                "yolov5",
+                "EfficientNetV2",
+                "efficientdet_d1_coco17_tpu-32", 
+                "centernet_resnet50_v1_fpn_512x512_coco17_tpu-8",
+                "small_bert_bert_en_uncased_L-2_H-128_A-2_2"
+            ],
+            "webgl": [
+                "imagenet_mobilenet_v2_100_224_classification_5",
+                "resnet_50_classification_1",
+                "VGG16", 
+                "Xception", 
+                "InceptionV3",
+                "EfficientNetV2"
+            ]
+        }
+    }
+}
